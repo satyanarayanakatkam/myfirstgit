@@ -2,6 +2,6 @@
 public class TestMerge {
 
 	void testMerge() {
-		System.out.println("master - merge2");
+		System.out.println("master - merge1 & merge 2");
 	}
 }
